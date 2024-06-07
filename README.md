@@ -1,2 +1,2 @@
-# RaGon
-RaGon is a Tech Institute that provide tech solution to Business and Organizations
+# BamTech
+BamTech is a tech platform that provide Tech training for clients.
